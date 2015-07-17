@@ -8,3 +8,4 @@
 /Release/
 /deobfuscator.*/
 !/deobfuscator.Template/
+!/deobfuscator.OrangeHeap/
